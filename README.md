@@ -39,9 +39,8 @@ An intelligent dispatch system for movie and TV show recommendations using FastA
 - Real-time data processing
 
 ## Contact & Social
-- 📧 Email: [你的邮箱](mailto:你的邮箱)
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/你的账号)
-- 💼 Portfolio: [Portfolio](https://你的网站)
+- 📧 Email: [你的邮箱](mailto:15551285402@163.com)
+- 💼 Portfolio: [Portfolio](https://blog.csdn.net/2403_88183496?type=blog)
 
 ---
 
