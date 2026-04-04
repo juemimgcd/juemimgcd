@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a Python backend developer with a passion for
 - **Python:** Proficient in writing clean, efficient, and readable code.
 - **FastAPI:** Experienced in developing high-performance web APIs that are easy to use and integrate.
 - **Django:** Skilled in creating full-featured web applications with a focus on usability and security.
-- **Databases:** PostgreSQL, MySQL, SQLite
+- **Databases:** PostgreSQL, MySQL, SQLite,redis,MongoDB
 - **Tools & DevOps:** Git, Docker, Linux
 
 ## Projects
