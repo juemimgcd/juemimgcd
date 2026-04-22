@@ -1,4 +1,4 @@
-# 你好，我是JQuery 👋
+# 你好，我是Juemimgcd 👋
 
 一名专注于 **Agent / RAG / AI 应用开发** 的学生开发者，主要使用 **Python、FastAPI、LangChain、LangGraph** 构建可落地的 AI 应用后端。
 
@@ -52,7 +52,7 @@
 **Tech Stack**  
 `FastAPI` `PostgreSQL` `SQLAlchemy` `Milvus` `LangChain` `RAG` `Docker`
 
-- 后端仓库：<你的 Mneme 后端链接>
+- 后端仓库：<[你的 Mneme 后端链接](https://github.com/juemimgcd/Mneme)>
 - 前端仓库：<你的 Mneme 前端链接>
 
 ---
