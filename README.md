@@ -52,8 +52,8 @@
 **Tech Stack**  
 `FastAPI` `PostgreSQL` `SQLAlchemy` `Milvus` `LangChain` `RAG` `Docker`
 
-- 后端仓库：<[你的 Mneme 后端链接](https://github.com/juemimgcd/Mneme)>
-- 前端仓库：<你的 Mneme 前端链接>
+- 后端仓库：<https://github.com/juemimgcd/Mneme>
+- 前端仓库：<https://github.com/juemimgcd/mneme_frontend>
 
 ---
 
@@ -70,7 +70,7 @@
 **Tech Stack**  
 `FastAPI` `Celery` `Redis` `PostgreSQL` `LangChain` `LangGraph` `Pydantic`
 
-- 项目地址：<你的 formatter_agent 链接>
+- 项目地址：<https://github.com/juemimgcd/rebuild_agent>
 
 ---
 
