@@ -70,7 +70,7 @@
 **Tech Stack**  
 `FastAPI` `Celery` `Redis` `PostgreSQL` `LangChain` `LangGraph` `Pydantic`
 
-- 项目地址：<https://github.com/juemimgcd/rebuild_agent>
+- 项目地址：<https://github.com/juemimgcd/formatter_agent>
 
 ---
 
