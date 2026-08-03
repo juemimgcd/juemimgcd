@@ -2,6 +2,18 @@
   <img src="./assets/profile-hero.svg" alt="Juemimgcd — Runtime, Memory, Security" width="100%" />
 </p>
 
+<p align="center">
+  <strong>简体中文</strong>
+  ·
+  <a href="./README.zh-TW.md">繁體中文</a>
+  ·
+  <a href="./README.en.md">English</a>
+  ·
+  <a href="./README.ja.md">日本語</a>
+  ·
+  <a href="./README.fr.md">Français</a>
+</p>
+
 <h1 align="center">你好，我是 Juemimgcd 👋</h1>
 
 <h3 align="center">我构建的不是“会聊天的 Demo”，而是能长期运行、能够恢复、可以审计的 Agent 系统。</h3>
